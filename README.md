@@ -1,4 +1,4 @@
-# GPA Scraper
+# UC Davis GPA Analysis Tool
 
 ## Overview
 
@@ -13,14 +13,14 @@ Before running the script, ensure you have the following installed:
 - Chrome WebDriver
 - Google Chrome browser (should be compaitble with Chrome WebDriver version)
 
+Download the appropriate version of Chrome WebDriver and Chrome for Testing for your system and make sure to update their paths in `config.py`.
+
 For more info on Chromedrivers and Chrome, please visit this website:  https://chromedriver.chromium.org/downloads
 
-You can install Selenium using pip:
+Additionally, you can install Selenium using pip:
 ```bash
 pip install selenium 
 ```
-
-Download the appropriate version of Chrome WebDriver and Chrome for Testing for your system and make sure to update their paths in `config.py`.
 
 ## Usage
 Clone this repository to your local machine.
