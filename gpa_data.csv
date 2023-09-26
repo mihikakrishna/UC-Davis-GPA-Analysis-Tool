@@ -1,0 +1,163 @@
+College,Major,Course Code,Average GPA,Number of Students
+Agricultural and Environmental Sciences,Animal Biology,AABI,3.066,246
+Agricultural and Environmental Sciences,Agricultural and Environmental Education,AAEE,2.941,57
+Agricultural and Environmental Sciences,Agricultural and Environmental Technology,AAET,3.161,29
+Agricultural and Environmental Sciences,Animal Science and Management,AANM,2.931,69
+Agricultural and Environmental Sciences,Animal Science,AANS,3.073,1112
+Agricultural and Environmental Sciences,Atmospheric Science,AATM,3.15,19
+Agricultural and Environmental Sciences,Agricultural and Managerial Economics,AAME,0.0,0
+Agricultural and Environmental Sciences,Agricultural Economics and Business Management,AAEB,0.0,0
+Agricultural and Environmental Sciences,Agricultural Science and Management,AASM,0.0,0
+Agricultural and Environmental Sciences,Avian Sciences,AAVS,0.0,0
+Agricultural and Environmental Sciences,Biotechnology,ABIT,3.258,211
+Agricultural and Environmental Sciences,Clinical Nutrition,ACNU,3.097,242
+Agricultural and Environmental Sciences,Community and Regional Development,ACRD,3.29,77
+Agricultural and Environmental Sciences,Ecological Management and Restoration,AEMR,3.279,23
+Agricultural and Environmental Sciences,Entomology,AENT,3.126,37
+Agricultural and Environmental Sciences,Biochemistry,ABCH,0.0,0
+Agricultural and Environmental Sciences,Biochemistry and Molecular Biology,ABMB,0.0,0
+Agricultural and Environmental Sciences,Biological Sciences,ABIS,0.0,0
+Agricultural and Environmental Sciences,Cell Biology,ACBI,0.0,0
+Agricultural and Environmental Sciences,Design,ADES,0.0,0
+Agricultural and Environmental Sciences,Environmental Horticulture and Urban Forestry,AEHF,3.135,39
+Agricultural and Environmental Sciences,Environmental Policy Analysis and Planning,AEPP,3.343,199
+Agricultural and Environmental Sciences,Environmental Science and Management,AESM,3.255,403
+Agricultural and Environmental Sciences,Environmental Toxicology,AETX,2.897,68
+Agricultural and Environmental Sciences,Food Science,AFSC,3.167,180
+Agricultural and Environmental Sciences,Environmental and Resource Sciences,AERS,0.0,0
+Agricultural and Environmental Sciences,Environmental Biology and Management,AEBM,0.0,0
+Agricultural and Environmental Sciences,Exploratory - Animal and Plant Sciences,AEXA,0.0,0
+Agricultural and Environmental Sciences,Fermentation Science,AFMS,0.0,0
+Agricultural and Environmental Sciences,Fiber and Polymer Science,AFPS,0.0,0
+Agricultural and Environmental Sciences,Global Disease Biology,AGDB,3.089,223
+Agricultural and Environmental Sciences,Human Development,AHDE,3.252,603
+Agricultural and Environmental Sciences,Hydrology,AHYD,3.204,5
+Agricultural and Environmental Sciences,International Agricultural Development,AIAD,3.17,35
+Agricultural and Environmental Sciences,Landscape Architecture,ALDA,3.504,78
+Agricultural and Environmental Sciences,Marine and Coastal Science,AMCS,2.973,23
+Agricultural and Environmental Sciences,Managerial Economics,AMGE,3.249,1149
+Agricultural and Environmental Sciences,Individual,AIND,0.0,0
+Agricultural and Environmental Sciences,Limited Status,ALMT,0.0,0
+Agricultural and Environmental Sciences,"Neurobiology, Physiology, and Behavior",ANPB,0.0,0
+Agricultural and Environmental Sciences,Undeclared/Exploratory Program,AEXP,2.947,159
+Agricultural and Environmental Sciences,Nutrition Science,ANSC,3.095,173
+Agricultural and Environmental Sciences,Pre-Landscape Architecture,APLA,3.112,66
+Agricultural and Environmental Sciences,Plant Sciences,APLT,3.124,95
+Agricultural and Environmental Sciences,Sustainable Agriculture and Food Systems,ASAF,3.123,98
+Agricultural and Environmental Sciences,Sustainable Environmental Design,ASED,3.299,171
+Agricultural and Environmental Sciences,Viticulture and Enology,AVEN,3.147,49
+Agricultural and Environmental Sciences,Physiology,APHS,0.0,0
+Agricultural and Environmental Sciences,Pre-Managerial Economics,APME,0.0,0
+Agricultural and Environmental Sciences,Textiles and Clothing,ATXC,0.0,0
+Agricultural and Environmental Sciences,"Wildlife, Fish, and Conservation Biology",AWFC,3.132,240
+Biological Sciences,Biological Sciences,BBIS,3.107,1408
+Biological Sciences,Biochemistry and Molecular Biology,BBMB,3.229,708
+Biological Sciences,Cell Biology,BCBI,3.241,130
+Biological Sciences,"Evolution, Ecology, and Biodiversity",BEEB,3.27,97
+Biological Sciences,Exercise Biology,BEXB,2.56,1
+Biological Sciences,Genetics and Genomics,BGGN,3.199,231
+Biological Sciences,Human Biology,BHUB,3.251,260
+Biological Sciences,Individual,BIND,3.491,4
+Biological Sciences,Genetics,BGEN,0.0,0
+Biological Sciences,Marine and Coastal Science,BMCS,3.149,69
+Biological Sciences,Microbiology,BMIC,2.416,2
+Biological Sciences,Molecular and Medical Microbiology,BMMM,3.227,423
+Biological Sciences,"Neurobiology, Physiology, and Behavior",BNPB,3.238,1297
+Biological Sciences,Plant Biology,BPLB,3.226,38
+Biological Sciences,Systems and Synthetic Biology,BSSB,3.081,11
+Biological Sciences,Undeclared - Life Sciences,BULS,2.914,133
+Engineering,Aerospace Science and Engineering,EASE,3.159,308
+Engineering,Biochemical Engineering,EBCL,3.131,45
+Engineering,Aeronautical Science and Engineering,EAER,0.0,0
+Engineering,Biomedical Engineering,EBIM,3.213,386
+Engineering,Biological Systems Engineering,EBSE,3.105,110
+Engineering,Civil Engineering,ECIV,3.138,380
+Engineering,Chemical Engineering,ECML,3.105,191
+Engineering,Computer Engineering,ECOM,3.203,258
+Engineering,Computer Science and Engineering,ECSE,3.374,292
+Engineering,Computer Science,ECSI,3.673,81
+Engineering,Electrical Engineering,EEEL,3.153,378
+Engineering,Environmental Engineering,EENV,3.222,148
+Engineering,"Electrical Engineering: Electronics, Circuits, and Signal Processing",EEES,0.0,0
+Engineering,Mechanical Engineering,EMEC,3.299,454
+Engineering,Materials Science and Engineering,EMSE,3.1,82
+Letters and Science,African American and African Studies,LAAA,3.372,44
+Letters and Science,Applied Chemistry,LACH,3.071,100
+Letters and Science,Art History,LAHI,3.418,52
+Letters and Science,Applied Mathematics,LAMA,3.381,270
+Letters and Science,American Studies,LAMS,3.32,26
+Letters and Science,Anthropology,LANT,3.228,188
+Letters and Science,Applied Physics,LAPP,3.134,95
+Letters and Science,Anthropology,LANP,0.0,0
+Letters and Science,Asian American Studies,LASA,3.195,28
+Letters and Science,Art Studio,LASD,3.405,200
+Letters and Science,Biological Sciences,LBIS,3.397,1
+Letters and Science,Chemistry,LCHE,3.061,194
+Letters and Science,Chicana/Chicano Studies,LCHI,3.235,144
+Letters and Science,Chinese,LCHN,3.105,15
+Letters and Science,Chemical Physics,LCPH,3.059,17
+Letters and Science,Asian American Studies,LASO,0.0,0
+Letters and Science,Biochemistry and Molecular Biology,LBMB,0.0,0
+Letters and Science,Cell Biology,LCBI,0.0,0
+Letters and Science,Cinema and Digital Media,LCDM,3.43,263
+Letters and Science,Cognitive Science,LCGS,3.301,588
+Letters and Science,Classical Civilization,LCLC,3.426,28
+Letters and Science,Communication,LCMN,3.293,669
+Letters and Science,Comparative Literature,LCOM,3.629,24
+Letters and Science,Computer Science,LCSI,3.451,1041
+Letters and Science,Design,LDES,3.506,675
+Letters and Science,Dramatic Art,LDRA,2.463,1
+Letters and Science,Data Science,LDSC,3.585,88
+Letters and Science,East Asian Studies,LEAS,3.389,19
+Letters and Science,Economics,LECN,3.31,1048
+Letters and Science,English,LENL,3.468,407
+Letters and Science,French,LFRE,3.092,11
+Letters and Science,Geology,LGEL,3.135,57
+Letters and Science,Genetics,LGEN,2.045,1
+Letters and Science,German,LGER,3.764,4
+Letters and Science,"Gender, Sexuality, and Women's Studies",LGSW,3.338,57
+Letters and Science,Exercise Biology,LEXB,0.0,0
+Letters and Science,Exercise Science,LEXS,0.0,0
+Letters and Science,Film Studies,LFMS,0.0,0
+Letters and Science,History,LHIS,3.419,321
+Letters and Science,International Relations,LIRE,3.379,328
+Letters and Science,Italian,LITA,3.572,12
+Letters and Science,Japanese,LJPN,3.421,90
+Letters and Science,Linguistics,LLIN,3.473,109
+Letters and Science,Mathematics,LMAT,3.278,275
+Letters and Science,Marine and Coastal Science,LMCS,3.1,27
+Letters and Science,Mathematical Analytics and Operations Research,LMOR,3.266,44
+Letters and Science,Individual,LIND,0.0,0
+Letters and Science,Limited Status,LLMT,0.0,0
+Letters and Science,Mathematics and Scientific Computation,LMCO,3.096,43
+Letters and Science,Medieval and Early Modern Studies,LMMS,3.747,4
+Letters and Science,Middle East/South Asia Studies,LMSA,3.124,3
+Letters and Science,Music,LMUS,3.475,66
+Letters and Science,Native American Studies,LNAS,3.112,13
+Letters and Science,Philosophy,LPHI,3.269,196
+Letters and Science,Physics,LPHY,3.234,164
+Letters and Science,Pharmaceutical Chemistry,LPMC,3.158,188
+Letters and Science,Natural Sciences,LNTS,0.0,0
+Letters and Science,Nature and Culture,LNAC,0.0,0
+Letters and Science,Political Science,LPOL,3.397,616
+Letters and Science,Political Science - Public Service,LPPS,3.371,238
+Letters and Science,Psychology,LPSC,3.344,1953
+Letters and Science,Religious Studies,LRST,3.312,15
+Letters and Science,Russian,LRUS,3.647,8
+Letters and Science,Sociology,LSOC,3.322,593
+Letters and Science,Sociology - Organizational Studies,LSOR,3.327,116
+Letters and Science,Science and Technology Studies,LSTS,3.291,48
+Letters and Science,Physiology,LPHS,0.0,0
+Letters and Science,Rhetoric and Communication,LRCM,0.0,0
+Letters and Science,Spanish,LSPA,3.344,138
+Letters and Science,Statistics,LSTA,3.408,713
+Letters and Science,Theatre and Dance,LTAD,3.417,55
+Letters and Science,Undeclared - Fine Arts,LUFA,3.129,24
+Letters and Science,Undeclared - Humanities,LUHU,3.169,58
+Letters and Science,Undeclared - Physical Sciences,LUPS,3.007,125
+Letters and Science,Undeclared - Social Sciences,LUSS,3.103,178
+Letters and Science,Technocultural Studies,LTCS,0.0,0
+Letters and Science,Undeclared,LUND,0.0,0
+Letters and Science,Undeclared - Life Sciences,LULS,0.0,0
+Letters and Science,Zoology,LZOO,2.84,1
+Letters and Science,Women's Studies,LWMS,0.0,0
