@@ -44,7 +44,7 @@ def extract_data_from_table(driver):
 
 def fetch_data_and_write_to_csv(driver, majors):
     # Open the CSV file for writing
-    with open('gpq_data.csv', 'w', newline='', encoding='utf-8') as file:
+    with open('gpa_data.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['College', 'Major', 'Course Code', 'Average GPA', 'Number of Students'])  # Write the csv headers
         
